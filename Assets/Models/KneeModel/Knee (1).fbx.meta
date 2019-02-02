@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 6b507ee83d019d3409b881b6c7d2a647
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circulatory_Arteries_Geo_Untitled.683
+    100002: Circulatory_Veins_Geo_Untitled.239
+    100004: //RootNode
+    100006: Male_Skeletal_Femur_Left_Geo_Untitled.075
+    100008: Rectus_Femoris_Muscle_Left_Untitled.698
+    400000: Circulatory_Arteries_Geo_Untitled.683
+    400002: Circulatory_Veins_Geo_Untitled.239
+    400004: //RootNode
+    400006: Male_Skeletal_Femur_Left_Geo_Untitled.075
+    400008: Rectus_Femoris_Muscle_Left_Untitled.698
+    2100000: Male_Muscular_System_V05_Muscles_Legs_mat
+    2100002: Male_Skeletal_System_V05_Male_Lower_Limbs_mat
+    2100004: Male_Circulatory_System_V05_Male_Circulatory_Arteries_mat
+    2100006: Male_Circulatory_System_V05_Male_Circulatory_Veins_mat
+    2300000: Circulatory_Arteries_Geo_Untitled.683
+    2300002: Circulatory_Veins_Geo_Untitled.239
+    2300004: Male_Skeletal_Femur_Left_Geo_Untitled.075
+    2300006: Rectus_Femoris_Muscle_Left_Untitled.698
+    3300000: Circulatory_Arteries_Geo_Untitled.683
+    3300002: Circulatory_Veins_Geo_Untitled.239
+    3300004: Male_Skeletal_Femur_Left_Geo_Untitled.075
+    3300006: Rectus_Femoris_Muscle_Left_Untitled.698
+    4300000: Rectus_Femoris_Muscle_Left_Untitled.698
+    4300002: Male_Skeletal_Femur_Left_Geo_Untitled.075
+    4300004: Circulatory_Arteries_Geo_Untitled.683
+    4300006: Circulatory_Veins_Geo_Untitled.239
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Male_Circulatory_System_V05_Male_Circulatory_Arteries_mat
+    second: {fileID: 2100000, guid: 274f558e8704f9940bb6d0572bcf946f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Male_Circulatory_System_V05_Male_Circulatory_Veins_mat
+    second: {fileID: 2100000, guid: 023c34a211725f748822cd8a5043ddb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Male_Muscular_System_V05_Muscles_Legs_mat
+    second: {fileID: 2100000, guid: acc6c67aab6cc2443b4d56805454a552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Male_Skeletal_System_V05_Male_Lower_Limbs_mat
+    second: {fileID: 2100000, guid: bb1c727652b7eae4184dc37bd1edcb90, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

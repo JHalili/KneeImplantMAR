@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>KneeImplantMAR</UnityWSASolutionName>
+        <UnityWSASolutionDir>E:\MEGA\MEGAsync\MAR\Exercises\KneeImplantMAR\App\</UnityWSASolutionDir>
+        <UnityProjectDir>E:\MEGA\MEGAsync\MAR\Exercises\KneeImplantMAR\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

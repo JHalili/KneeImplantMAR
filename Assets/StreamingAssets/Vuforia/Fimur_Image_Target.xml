@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="TestCube.Back" size="0.07 0.12"/>
+        <ImageTarget name="TestCube.Front" size="0.07 0.12"/>
+        <MultiTarget name="Fimur_Image_Cube">
+            <Part name="TestCube.Front" translation="0.11 0.02 0" rotation="AD: 0 1 0 15"/>
+            <Part name="TestCube.Back" translation="0.11 0.02 -0.015" rotation="AD: 0 1 0 -185"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

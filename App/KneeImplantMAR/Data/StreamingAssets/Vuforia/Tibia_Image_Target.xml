@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="TestCube.Back" size="0.0700 0.12"/>
+        <ImageTarget name="TestCube.Front" size="0.0700 0.12"/>
+        <MultiTarget name="Tibia_Image_Cube">
+            <Part name="TestCube.Front" translation="0.05 0.02 0.007" rotation="AD: 0 1 0 7.47"/>
+            <Part name="TestCube.Back" translation="0.05 0.02 -0.007" rotation="AD: 0 1 0 -190"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

@@ -1,0 +1,48 @@
+# Blender MTL File: 'KneeModel_cut.blend'
+# Material Count: 4
+
+newmtl Male_Circulatory_System_V05:Male_Circulatory_Arteries_mat
+Ns 556.862745
+Ka 1.000000 1.000000 1.000000
+Kd 0.512000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\raro\\Desktop\\2.Master\\MAR\\Projekt\\KneeModel\\textures\\artery.jpg
+
+newmtl Male_Circulatory_System_V05:Male_Circulatory_Veins_mat
+Ns 556.862745
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.257024 0.512000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\raro\\Desktop\\2.Master\\MAR\\Projekt\\KneeModel\\textures\\vein.jpg
+
+newmtl Male_Muscular_System_V05:Muscles_Legs_mat
+Ns 998.039216
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.601633 0.601633 0.601633
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 C:\\Users\\raro\\Desktop\\2.Master\\MAR\\Projekt\\KneeModel\\textures\\muscularySystems_legs_normal_100_70_-10_sobel.png
+map_Kd C:\\Users\\raro\\Desktop\\2.Master\\MAR\\Projekt\\KneeModel\\textures\\Muscles_Legs_Dif.jpg
+
+newmtl Male_Skeletal_System_V05:Male_Lower_Limbs_mat
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.065034 0.065034 0.065034
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 C:\\Users\\raro\\Desktop\\2.Master\\MAR\\Projekt\\KneeModel\\textures\\skeleton_lowerlimbs_normal_100_90_0.png
+map_Kd C:\\Users\\raro\\Desktop\\2.Master\\MAR\\Projekt\\KneeModel\\textures\\Skeletal_Lower_Limbs_Dif.jpg
