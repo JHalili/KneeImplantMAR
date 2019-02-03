@@ -1129,7 +1129,6 @@ GameObject:
   - component: {fileID: 1093627057}
   - component: {fileID: 1093627059}
   - component: {fileID: 1093627058}
-  - component: {fileID: 1093627060}
   m_Layer: 0
   m_Name: ImplantConfManager
   m_TagString: Untagged
@@ -1334,20 +1333,6 @@ MonoBehaviour:
   - Keyword: size down
     KeyCode: 100
   recognitionConfidenceLevel: 1
---- !u!114 &1093627060
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1093627054}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e88e7af22ffd724e83d6a38678e79f0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  femurImgTarget: {fileID: 1395691746}
-  tibiaImgTarget: {fileID: 748499801}
 --- !u!1 &1094273002
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-[RequireComponent(typeof(MarkerPositionCheck))]
+//[RequireComponent(typeof(MarkerPositionCheck))]
 public class KneePartManager : MonoBehaviour
 {
     public GameObject tibia;
@@ -17,12 +17,12 @@ public class KneePartManager : MonoBehaviour
     public GameObject tibiaPlateImplant;
     public GameObject femurImplant;
 
-    MarkerPositionCheck posChecker;
+    //MarkerPositionCheck posChecker;
 
-    private bool isModelAtRightPos = false;
+    private bool isModelAtRightPos = true;
     private void Start()
     {
-        posChecker= GameObject.FindObjectOfType<MarkerPositionCheck>();
+       // posChecker= GameObject.FindObjectOfType<MarkerPositionCheck>();
     }
 
     public void ShowFullKnee(bool visible)
@@ -40,7 +40,7 @@ public class KneePartManager : MonoBehaviour
     {
         // compute implant positions and possibility for a muscle layer display
 
-        isModelAtRightPos = posChecker.checkRotation();
+       // isModelAtRightPos = posChecker.checkRotation();
         if (!isModelAtRightPos)
         {
             // make sure that the layers are not displayed

@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{22bfb7d7-54dd-49a8-8db9-0029e43c7bf1}</ProjectGuid>
+    <ProjectGuid>{6bd1c65e-a07c-4a53-875c-39a54f112828}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -131,16 +131,16 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="E:\MEGA\MEGAsync\MAR\Exercises\KneeImplantMAR\App\GeneratedProjects\UWP\VuforiaScripts\VuforiaScripts.csproj">
-      <Project>{9ee7b03f-062f-4be8-adeb-9c23807ea3f8}</Project>
+      <Project>{65bbe319-6370-4020-a4a5-649f7af6004b}</Project>
       <Name>VuforiaScripts</Name>
     </ProjectReference>    <ProjectReference Include="E:\MEGA\MEGAsync\MAR\Exercises\KneeImplantMAR\App\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj">
-      <Project>{e4696c06-6e29-4cd7-933d-1e14a1df326b}</Project>
+      <Project>{aa270075-5df8-4f20-a49c-9e561f4e8e43}</Project>
       <Name>Unity.TextMeshPro</Name>
     </ProjectReference>    <ProjectReference Include="E:\MEGA\MEGAsync\MAR\Exercises\KneeImplantMAR\App\GeneratedProjects\UWP\Unity.Analytics.DataPrivacy\Unity.Analytics.DataPrivacy.csproj">
-      <Project>{50b2fa53-3083-403a-820c-a2eb7d75d8d4}</Project>
+      <Project>{d13d58f8-368a-472a-b67c-cd71e7ad0e1f}</Project>
       <Name>Unity.Analytics.DataPrivacy</Name>
     </ProjectReference>    <ProjectReference Include="E:\MEGA\MEGAsync\MAR\Exercises\KneeImplantMAR\App\GeneratedProjects\UWP\Unity.XR.WindowsMR\Unity.XR.WindowsMR.csproj">
-      <Project>{7ac45f4c-2175-4960-917f-aad41a79505c}</Project>
+      <Project>{55d6071f-f1aa-4202-8a95-b132046dec60}</Project>
       <Name>Unity.XR.WindowsMR</Name>
     </ProjectReference>
     <Reference Include="UnityEngine.SpriteMaskModule">

@@ -384,27 +384,27 @@
 
   <ItemGroup>
     <ProjectReference Include="E:\MEGA\MEGAsync\MAR\Exercises\KneeImplantMAR\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{09ef428d-75c2-4a18-b877-511c885a3565}</Project>
+      <Project>{42e3acb2-e92f-41f0-a03c-9f6d026327b4}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="E:\MEGA\MEGAsync\MAR\Exercises\KneeImplantMAR\App\GeneratedProjects\UWP\VuforiaScripts\VuforiaScripts.csproj">
-      <Project>{244eb7f1-4a07-4bbb-a501-0414bcb19dde}</Project>
+      <Project>{7325ac3b-13ed-4212-a19c-83eae7705c54}</Project>
       <Name>VuforiaScripts</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="E:\MEGA\MEGAsync\MAR\Exercises\KneeImplantMAR\App\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj">
-      <Project>{f7909321-734b-4ee4-b885-c41e933deb77}</Project>
+      <Project>{36cc881b-c519-4854-8f27-c22b0fffab03}</Project>
       <Name>Unity.TextMeshPro</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="E:\MEGA\MEGAsync\MAR\Exercises\KneeImplantMAR\App\GeneratedProjects\UWP\Unity.Analytics.DataPrivacy\Unity.Analytics.DataPrivacy.csproj">
-      <Project>{fc35e1e9-65b7-4685-b39e-f238c400e378}</Project>
+      <Project>{44aee2a7-c42c-4354-9bf3-43d5024d92c5}</Project>
       <Name>Unity.Analytics.DataPrivacy</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="E:\MEGA\MEGAsync\MAR\Exercises\KneeImplantMAR\App\GeneratedProjects\UWP\Unity.XR.WindowsMR\Unity.XR.WindowsMR.csproj">
-      <Project>{1d75aca1-a49b-4428-9edd-bd0ba8efa54e}</Project>
+      <Project>{5c2284f6-e0d6-4599-aaae-e8e8f4373413}</Project>
       <Name>Unity.XR.WindowsMR</Name>
       <Private>False</Private>
     </ProjectReference>
